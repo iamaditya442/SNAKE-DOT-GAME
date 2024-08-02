@@ -1,4 +1,4 @@
-# Snake-dot-game                                                    
+# SNAKE-DOT-GAME                                                    
 ![snake image](https://github.com/user-attachments/assets/ba12dd65-6fd9-42c0-98ac-681b2c271697)
 
 
